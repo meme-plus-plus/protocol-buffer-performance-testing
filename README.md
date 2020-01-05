@@ -1,4 +1,4 @@
-# Protocol Buffers
+# Protocol Buffers Performance Testing
 
 A simple utility to run and compare performance measurements between Google's [Protocol Buffer](http://www.dropwizard.io/1.0.2/docs/)  serialization and Java's internal mechanisms.
 
@@ -24,9 +24,9 @@ To run the provided performance measurements, after installing the related Maven
 
 For additional information on protocol buffer installation and general project setup, you can check out my video or article on the subject:
 
-* [Protocol Buffer](TODO)
+* [Video Overview](TODO)
 
-* [Article](TODO)
+* [Article Overview](TODO)
 
 
 ## Built With
