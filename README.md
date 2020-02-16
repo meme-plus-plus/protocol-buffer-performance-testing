@@ -24,9 +24,9 @@ To run the provided performance measurements, after installing the related Maven
 
 For additional information on protocol buffer installation and general project setup, you can check out my video or article on the subject:
 
-* [Video Overview](TODO)
+*[![Video Overview](https://img.youtube.com/vi/sav7X7_XgKc/0.jpg)](https://www.youtube.com/watch?v=sav7X7_XgKc)
 
-* [Article Overview](TODO)
+* [Article Overview](https://medium.com/@david_turner/protocol-buffers-just-how-fast-are-they-9ec19ea580db)
 
 
 ## Built With
